@@ -1,5 +1,4 @@
-### ReMo Committee Application
-Foundations of Software Engineering, Summer 2024
+### ReMo Committee Application Foundations of Software Engineering, Summer 2024
 ReMo was built using React, Next.js, TypeScript, MongoDB
 
 ## Team 
